@@ -1,0 +1,12 @@
+center h1 {
+  color: salmon;
+}
+p {
+  font-family: Arial, Helvetica;
+  font-size: 14px;
+  font-weight: bolder;
+}
+p {
+  font-size: 18px;
+  transition: 0.1s font-size linear;
+}
